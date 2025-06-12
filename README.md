@@ -23,5 +23,6 @@ I'm currently working on React and Java<br>
 
 <picture>
 <source media ="(prefers-color-scheme: dark)" srcset = "https://raw.githubuserscontent.com/Devendra420/Devendra420/output/github-snake.svg" />
-<source media ="(prefers-color-scheme: dark)" srcset = "https://raw.githubuserscontent.com/Devendra420/Devendra420/output/github-snake.svg />
+<source media ="(prefers-color-scheme: dark)" srcset = "https://raw.githubuserscontent.com/Devendra420/Devendra420/output/github-snake.svg" />
+<img alt = "github-snake" src = "https://raw.githubuserscontent.com/Devendra420/Devendra420/output/github-snake.svg" />
 </picture>
