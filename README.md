@@ -21,4 +21,7 @@ I'm currently working on React and Java<br>
 
 [![](https://visitcount.itsvg.in/api?id=Devendra420&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<picture>
+<source media ="(prefers-color-scheme: dark)" srcset = "https://raw.githubuserscontent.com/Devendra420/Devendra420/output/github-snake.svg" />
+<source media ="(prefers-color-scheme: dark)" srcset = "https://raw.githubuserscontent.com/Devendra420/Devendra420/output/github-snake.svg />
+</picture>
