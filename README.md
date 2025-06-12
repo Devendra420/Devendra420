@@ -1,4 +1,4 @@
-<img src = "/home/dev/Desktop/Devendra420/banner.png" alt = "Github Banner" width = 100%>
+<img src = "banner.png" alt = "Github Banner" width = 100%>
 # 💫 About Me:
 Hi!, I'm Devendra Khadka
 I'm currently working on React and Java<br>
